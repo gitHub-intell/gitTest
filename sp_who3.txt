@@ -1,3 +1,4 @@
+--sp_who3
 SELECT
     SPID                = er.session_id
     ,BlkBy              = er.blocking_session_id      
